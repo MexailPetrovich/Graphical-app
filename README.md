@@ -1,5 +1,5 @@
 Movie Library — Личная кинотека
-
+Ссылка на репозиторий:https://github.com/MexailPetrovich/Graphical-app
 Автор: Бородин Макар
 
 Описание
